@@ -23,6 +23,7 @@ Setelah selesai mengedit:
 Tekan Ctrl + O untuk menyimpan file.
 Tekan Enter untuk mengonfirmasi nama file yang akan disimpan.
 Tekan Ctrl + X untuk keluar dari nano.
+
 **STEP 5**
 ```
 cp -r .bashrc $HOME
