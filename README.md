@@ -1,22 +1,33 @@
 # TERMUX-THEME
 ![alt text](https://github.com/Tanmyname/Termux-Theme/blob/main/x1.png?raw=true) 
 ## INSTALASION
-__TERMUX__
-
 **STEP 1**
 ```
-pkg update && pkg upgrade && pkg install figlet && pkg install git && git clone https://github.com/Tanmyname/Termux-Theme.git
+cd ~ && rm-rf .bashrc
 ```
 **STEP 2**
 ```
-cd Termux-Theme
+pkg update && pkg upgrade && pkg install figlet && pkg install git && git clone https://github.com/Tanmyname/Termux-Theme.git
 ```
 **STEP 3**
 ```
-ls -a && cp -r .bashrc $HOME
+cd Termux-Theme
 ```
-### NOTES
-**English Version**
-If you want to change the name on the Termux display, access the .bashrc file in your file, provided that you have activated the show hidden files feature. 
-**Indo Version**
-jika anda ingin mengubah nama pada tampilan termux anda akses file .bashrc di file anda dengan catatan anda telah mengaktifkan fitur tampilkan file tersembunyi pada file manager anda dan akses file .bashrc di code edior anda :)
+**STEP 6**
+Akses file .bashrc dan ganti nama Creator 
+```
+nano .bashrc
+```
+Setelah selesai mengedit:
+Tekan Ctrl + O untuk menyimpan file.
+Tekan Enter untuk mengonfirmasi nama file yang akan disimpan.
+Tekan Ctrl + X untuk keluar dari nano.
+**STEP 5**
+```
+cp -r .bashrc $HOME
+```
+**STEP 6**
+```
+source ~/.bashrc
+
+```
