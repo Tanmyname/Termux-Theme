@@ -1,5 +1,5 @@
 # TERMUX-THEME
-![alt text](https://github.com/Tanmyname/Cli_tols/blob/main/icon.png?raw=true) 
+![alt text](https://github.com/Tanmyname/Termux-Theme/blob/main/x1.png?raw=true) 
 ## INSTALASION
 __TERMUX__
 
