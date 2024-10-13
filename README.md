@@ -13,7 +13,7 @@ pkg update && pkg upgrade && pkg install figlet && pkg install git && git clone 
 ```
 cd Termux-Theme
 ```
-**STEP 6**
+**STEP 4**
 Akses file .bashrc dan ganti nama Creator 
 ```
 nano .bashrc
