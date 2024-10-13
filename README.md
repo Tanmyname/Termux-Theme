@@ -15,3 +15,8 @@ cd Termux-Theme
 ```
 ls -a && cp -r .bashrc $HOME
 ```
+### NOTES
+**English Version**
+If you want to change the name on the Termux display, access the .bashrc file in your file, provided that you have activated the show hidden files feature. 
+**Indo Version**
+jika anda ingin mengubah nama pada tampilan termux anda akses file .bashrc di file anda dengan catatan anda telah mengaktifkan fitur tampilkan file tersembunyi pada file manager anda dan akses file .bashrc di code edior anda :)
