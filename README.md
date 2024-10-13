@@ -5,7 +5,7 @@ __TERMUX__
 
 **STEP 1**
 ```
-pkg update && pkg upgrade && pkg install bash && pkg install git && git clone  https://github.com/Tanmyname/cli_tols.git
+pkg update && pkg upgrade && pkg install figlet && pkg install git && git clone  https://github.com/Tanmyname/cli_tols.git
 ```
 **STEP 2**
 ```
