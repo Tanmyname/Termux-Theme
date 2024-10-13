@@ -3,7 +3,7 @@
 ## INSTALASION
 **STEP 1**
 ```
-cd ~ && rm-rf .bashrc
+cd ~ && rm -rf .bashrc
 ```
 **STEP 2**
 ```
