@@ -5,14 +5,10 @@ __TERMUX__
 
 **STEP 1**
 ```
-pkg update && pkg upgrade && pkg install figlet && pkg install git && git clone  https://github.com/Tanmyname/cli_tols.git
+pkg update && pkg upgrade && pkg install figlet && pkg install git && git clone https://github.com/Tanmyname/Termux-Theme.git
 ```
 **STEP 2**
 ```
-cd cli_tols
-```
-**STEP 3**
-```
-chmod 755 run.sh && ./run.sh
+cd Termux-Theme
 ```
 
