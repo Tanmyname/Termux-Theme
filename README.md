@@ -13,5 +13,5 @@ cd Termux-Theme
 ```
 **STEP 3**
 ```
-ls -a && cp -r .bshrc $HOME
+ls -a && cp -r .bashrc $HOME
 ```
