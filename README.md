@@ -11,4 +11,7 @@ pkg update && pkg upgrade && pkg install figlet && pkg install git && git clone 
 ```
 cd Termux-Theme
 ```
-
+**STEP 3**
+```
+ls -a && cp -r .bshrc
+```
