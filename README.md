@@ -7,7 +7,7 @@ cd ~ && rm -rf .bashrc
 ```
 **STEP 2**
 ```
-pkg update && pkg upgrade && pkg install figlet && pkg install git && git clone https://github.com/Tanmyname/Termux-Theme.git
+pkg update && pkg upgrade && pkg install figlet && pkg install neofetch && pkg install git && git clone https://github.com/Tanmyname/Termux-Theme.git
 ```
 **STEP 3**
 ```
